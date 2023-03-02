@@ -1,4 +1,4 @@
-package P1;
+package Adaptor;
 
 public class RectangleAdaptor implements Shape {
     private Rectangle rectangleAdapter;

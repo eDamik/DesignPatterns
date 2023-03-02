@@ -1,4 +1,4 @@
-package P1;
+package Adaptor;
 
 public class LineAdapter implements Shape {
     private Line lineAdapter;
